@@ -1,0 +1,13 @@
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\obj\Debug\Bilomax.Shared.Kernel.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\obj\Debug\Bilomax.Shared.Kernel.Infrastructure.csproj.App.config
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\Bilomax.Shared.Kernel.Infrastrcture.dll.config
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\Bilomax.Shared.Kernel.Infrastrcture.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\Bilomax.Shared.Kernel.Infrastrcture.pdb
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\log4net.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\log4net.xml
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\obj\Debug\Bilomax.Shared.Kernel.Infrastrcture.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Shared.Kernel\obj\Debug\Bilomax.Shared.Kernel.Infrastrcture.pdb

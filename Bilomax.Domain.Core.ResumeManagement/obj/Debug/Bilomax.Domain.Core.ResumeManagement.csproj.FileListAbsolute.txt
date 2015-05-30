@@ -1,0 +1,8 @@
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\bin\Debug\Bilomax.Domain.Core.ResumeManagement.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\bin\Debug\Bilomax.Domain.Core.ResumeManagement.pdb
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\bin\Debug\Bilomax.Shared.Kernel.Infrastrcture.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\bin\Debug\log4net.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\bin\Debug\Bilomax.Shared.Kernel.Infrastrcture.pdb
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\bin\Debug\log4net.xml
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\obj\Debug\Bilomax.Domain.Core.ResumeManagement.dll
+C:\Users\alex\OneDrive\Bilomax\Bilomax.Domain.Core.ResumeManagement\obj\Debug\Bilomax.Domain.Core.ResumeManagement.pdb
